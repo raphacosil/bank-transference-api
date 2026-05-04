@@ -1,6 +1,6 @@
 package com.example.bank_api.unit.config;
 
-import com.example.bank_api.config.GlobalExceptionHandler;
+import com.example.bank_api.config.exception.GlobalExceptionHandler;
 import com.example.bank_api.config.exception.BadRequestException;
 import com.example.bank_api.config.exception.InternalServerException;
 import com.example.bank_api.config.exception.NotFoundException;

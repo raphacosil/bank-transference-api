@@ -22,6 +22,9 @@ spring:
         hibernate:
           dialect: org.hibernate.dialect.MySQLDialect
           format_sql: true
+jwt:
+  secret: password
+  expiration: 86400000
 
 external:
   util-api:
