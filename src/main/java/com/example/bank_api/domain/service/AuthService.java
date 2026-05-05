@@ -1,7 +1,7 @@
 package com.example.bank_api.domain.service;
 
-import com.example.bank_api.boundary.Authorization;
-import com.example.bank_api.boundary.LoginRequest;
+import com.example.bank_api.boundary.dto.Authorization;
+import com.example.bank_api.boundary.dto.LoginRequest;
 import com.example.bank_api.config.security.JwtService;
 import com.example.bank_api.domain.model.Customer;
 import org.springframework.security.authentication.AuthenticationManager;

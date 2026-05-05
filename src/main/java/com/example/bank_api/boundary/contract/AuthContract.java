@@ -1,7 +1,7 @@
 package com.example.bank_api.boundary.contract;
 
-import com.example.bank_api.boundary.Authorization;
-import com.example.bank_api.boundary.LoginRequest;
+import com.example.bank_api.boundary.dto.Authorization;
+import com.example.bank_api.boundary.dto.LoginRequest;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

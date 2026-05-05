@@ -1,4 +1,4 @@
-package com.example.bank_api.boundary;
+package com.example.bank_api.boundary.dto;
 
 import jakarta.validation.constraints.NotBlank;
 
